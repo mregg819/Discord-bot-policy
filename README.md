@@ -91,3 +91,125 @@ Chúng tôi có thể thay đổi chính sách này bất cứ lúc nào. Việc
 @mr.egg
 
 ---# Discord-bot-policy
+Điều Khoản Sử Dụng (Terms of Service)
+
+Ngày hiệu lực: [Điền ngày]
+
+Khi sử dụng [Tên Bot] (“Bot”), bạn đồng ý với các điều khoản sau:
+
+---
+
+1. Sử Dụng Bot
+
+- Bot được cung cấp miễn phí để giải trí
+- Bạn đồng ý sử dụng Bot một cách hợp lý
+
+---
+
+2. Dữ Liệu & Tiến Trình
+
+- Dữ liệu (tiền, vật phẩm, level, v.v.) có thể bị reset hoặc mất bất cứ lúc nào
+- Bạn có thể liên hệ admin để được hỗ trợ xử lý
+- Không đảm bảo khôi phục trong mọi trường hợp
+
+---
+
+3. Lỗi & Gián Đoạn
+
+- Bot có thể gặp lỗi hoặc ngừng hoạt động
+- Bạn có thể báo admin để được hỗ trợ
+- Không đảm bảo Bot luôn hoạt động ổn định
+
+---
+
+4. Quyền Của Admin
+
+- Admin có quyền:
+  - Điều chỉnh dữ liệu
+  - Reset dữ liệu
+  - Sửa lỗi hệ thống
+
+---
+
+5. Nội Dung Ảo
+
+- Tất cả tiền tệ, vật phẩm trong bot:
+  - Chỉ mang tính chất ảo
+  - Không có giá trị thực tế
+
+---
+
+6. Thay Đổi Điều Khoản
+
+- Chúng tôi có thể thay đổi điều khoản bất cứ lúc nào
+- Việc tiếp tục sử dụng Bot = bạn đồng ý với thay đổi
+
+---
+
+7. Liên Hệ
+
+📧 Email: [your-email@example.com]
+👤 Admin: [Tên bạn hoặc Discord tag]
+
+---
+Điều Khoản Sử Dụng (Terms of Service)
+
+Ngày hiệu lực: [Điền ngày]
+
+Khi sử dụng [Tên Bot] (“Bot”), bạn đồng ý với các điều khoản sau:
+
+---
+
+1. Sử Dụng Bot
+
+- Bot được cung cấp miễn phí để giải trí
+- Bạn đồng ý sử dụng Bot một cách hợp lý
+
+---
+
+2. Dữ Liệu & Tiến Trình
+
+- Dữ liệu (tiền, vật phẩm, level, v.v.) có thể bị reset hoặc mất bất cứ lúc nào
+- Bạn có thể liên hệ admin để được hỗ trợ xử lý
+- Không đảm bảo khôi phục trong mọi trường hợp
+
+---
+
+3. Lỗi & Gián Đoạn
+
+- Bot có thể gặp lỗi hoặc ngừng hoạt động
+- Bạn có thể báo admin để được hỗ trợ
+- Không đảm bảo Bot luôn hoạt động ổn định
+
+---
+
+4. Quyền Của Admin
+
+- Admin có quyền:
+  - Điều chỉnh dữ liệu
+  - Reset dữ liệu
+  - Sửa lỗi hệ thống
+
+---
+
+5. Nội Dung Ảo
+
+- Tất cả tiền tệ, vật phẩm trong bot:
+  - Chỉ mang tính chất ảo
+  - Không có giá trị thực tế
+
+---
+
+6. Thay Đổi Điều Khoản
+
+- Chúng tôi có thể thay đổi điều khoản bất cứ lúc nào
+- Việc tiếp tục sử dụng Bot = bạn đồng ý với thay đổi
+
+---
+
+7. Liên Hệ
+
+📧 Email: [your-email@example.com]
+👤 Admin: [Tên bạn hoặc Discord tag]
+
+---
